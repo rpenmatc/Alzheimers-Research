@@ -7,10 +7,16 @@ Alzheimer’s disease (AD) is a progressive neurodegenerative disease, as well a
 
 A model that can accurately and inexpensively predict someone's future condition will help immensly for aiding in healthcare and clinical trials. Healthcare costs are often too high for most people to recieve MRI tests, and often in rural communities, one has to travel for days or even weeks to go to their closest hospital. Thus, my project's aim is to predict the future MMSE (indicator of dementia) score of patients and the future state (Cognitive Normal, Mild Cognitive Impairment, or Alzhiemer's Disease) using markers that can easily be aqcuired. 
 
-Data:
+### Data:
 
 
-Research Plan
+### Research Plan
 
 
-Results: 
+### Results: 
+
+#### MMSE Prediction: 
+
+Here is the google form that takes your information to predict your MMSE score: shorturl.at/jAKL7. You will recieve an email with your result after filling out this google form. The data in this form must be inputed specifically, as asked, to recieve the correct information. 
+
+#### Future State Prediction (CN, MCI, AD): 

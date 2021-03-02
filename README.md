@@ -17,6 +17,6 @@ A model that can accurately and inexpensively predict someone's future condition
 
 #### MMSE Prediction: 
 
-Here is the google form that takes your information to predict your MMSE score: shorturl.at/jAKL7. You will recieve an email with your result after filling out this google form. The data in this form must be inputed specifically, as asked, to recieve the correct information. 
+Here is the google form that takes your information to predict your MMSE score: [MMSE PREDICTION](https://docs.google.com/forms/d/e/1FAIpQLSfKuRvqtKkMWoycQKUdDfc7HM-Ni73XON573PxgY9RiNIYidw/viewform?vc=0&c=0&w=1&flr=0). You will recieve an email with your result after filling out this google form. The data in this form must be inputed specifically, as asked, to recieve the correct information. 
 
 #### Future State Prediction (CN, MCI, AD): 

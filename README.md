@@ -12,6 +12,7 @@ A model that can accurately and inexpensively predict someone's future condition
 The training data (for predicting MMSE scores) consist of individuals participating in the Alzheimer’s Disease Neuroimaging Initiative (ADNI), which is a longitudinal multicenter study established in 2004 with the goal of detecting AD at an early stage, tracking disease progression through biomarkers, supporting advances in AD intervention, prevention and treatment, and providing a resource for AD research. The study has grown to >1600 participants with mild cognitive impairment (MCI),ranging from Early MCI (EMCI) to Late MCI (LMCI), Alzheimer's Disease (AD) and elderly, cognitively normal (CN) control subjects that have been recruited over three phases ADNI 1, ADNI GO and ADNI 2.
 
 ![Screen Shot 2021-03-03 at 9 48 19 AM](https://user-images.githubusercontent.com/40369092/109848967-b0556800-7c05-11eb-8cf5-c04d31604836.png)
+![Screen Shot 2021-03-03 at 9 48 02 AM](https://user-images.githubusercontent.com/40369092/109849020-bfd4b100-7c05-11eb-9dd6-038387bd74a1.png)
 
 
 ### Research Plan

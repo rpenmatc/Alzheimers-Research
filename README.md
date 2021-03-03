@@ -1,4 +1,4 @@
-# Alzheimer-s-Research
+# Alzheimers-Research
 ## ACSEF RESEARCH PROJECT 
 
 ### Project Motivation: 

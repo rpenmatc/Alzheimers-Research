@@ -23,8 +23,13 @@ The training data (for predicting MMSE scores) consist of individuals participat
 
 ### Results: 
 
+##### Check the 2 jupyter notebooks to see the results – PredictingChangeinMMSE.ipynb and ADCLASSIFICATION.ipynb
 #### MMSE Prediction: 
 
 Here is the google form that takes your information to predict your MMSE score: [MMSE PREDICTION](https://docs.google.com/forms/d/e/1FAIpQLSfKuRvqtKkMWoycQKUdDfc7HM-Ni73XON573PxgY9RiNIYidw/viewform?vc=0&c=0&w=1&flr=0). You will recieve an email with your result after filling out this google form. The data in this form must be inputed specifically, as asked, to recieve the correct information. 
 
 #### State Prediction: 
+
+Here is the google form that takes your information to classify if you have Alzheimer's Disease or not: [AD]https://docs.google.com/forms/d/e/1FAIpQLSfLWFJnlK_CEyLQCRE6zJuar-JtuS5RgC0knfOJ4dUdXhb_uQ/viewform. You will recieve an email with your results after filling out this google form. The data in this form must be inputed specifically, as asked, to recieve the correct information.
+
+

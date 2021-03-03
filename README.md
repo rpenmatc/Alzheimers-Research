@@ -18,7 +18,10 @@ The training data (for predicting MMSE scores) consist of individuals participat
 ![Screen Shot 2021-03-03 at 9 48 02 AM](https://user-images.githubusercontent.com/40369092/109849020-bfd4b100-7c05-11eb-9dd6-038387bd74a1.png)
 
 
-### Research Plan
+### Research Plan:
+
+![Uploading Screen Shot 2021-03-03 at 11.34.23 AM.png…]()
+
 
 
 ### Results: 

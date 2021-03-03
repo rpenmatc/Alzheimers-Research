@@ -30,6 +30,6 @@ Here is the google form that takes your information to predict your MMSE score: 
 
 #### State Prediction: 
 
-Here is the google form that takes your information to classify if you have Alzheimer's Disease or not: [AD]https://docs.google.com/forms/d/e/1FAIpQLSfLWFJnlK_CEyLQCRE6zJuar-JtuS5RgC0knfOJ4dUdXhb_uQ/viewform. You will recieve an email with your results after filling out this google form. The data in this form must be inputed specifically, as asked, to recieve the correct information.
+Here is the google form that takes your information to classify if you have Alzheimer's Disease or not:[AD](https://docs.google.com/forms/d/e/1FAIpQLSfLWFJnlK_CEyLQCRE6zJuar-JtuS5RgC0knfOJ4dUdXhb_uQ/viewform). You will recieve an email with your results after filling out this google form. The data in this form must be inputed specifically, as asked, to recieve the correct information.
 
 
